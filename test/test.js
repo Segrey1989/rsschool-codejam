@@ -1,6 +1,7 @@
 
 const assert = require('assert');
 const sumOfOther = require('../sumOfOther.js');
+const make = require('../make.js');
 
 describe('sumOfOther', () => {
   it('Should return [8, 7, 6, 9]', () => {
